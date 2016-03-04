@@ -1,0 +1,5 @@
+{
+  "webPort":  3345
+  , "modemPort": "/dev/ttyACM0"
+  , "serverName": "CallerGoodPi"
+}

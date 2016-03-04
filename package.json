@@ -1,0 +1,27 @@
+{
+  "author": "",
+  "name": "CallerPi",
+  "description": "CalledID Fun",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/celly/CallerPi.git"
+  },
+  "dependencies": {
+    "bunyan": "^1.7.1",
+    "compression": "^1.6.1",
+    "db-to-express-rest": "^1.1.1",
+    "express": "^4.13.4",
+    "nconf": "^0.8.4",
+    "nedb": "^1.8.0",
+    "serialport": "^2.0.6"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "scripts": {
+    "start": "nodemon app.js"
+  }
+}
